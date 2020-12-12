@@ -31,11 +31,6 @@ def consolidate_cart(cart)
   }
   #binding.pry
   final_array.uniq
-    
-  
-  
-  
-
 end
 
 
